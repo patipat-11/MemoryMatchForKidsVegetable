@@ -1,0 +1,17 @@
+/* Reset margin/padding */
+body {
+    margin: 0;
+    padding: 0;
+    background: #6da0c9; /* สีฟ้าพื้นหลัง */
+    overflow: hidden; /* ซ่อน scrollbars */
+}
+
+/* Canvas */
+canvas {
+    display: block;
+    margin: 0 auto;
+    background: #6da0c9; /* สีพื้นหลังเหมือน body */
+}
+
+
+
